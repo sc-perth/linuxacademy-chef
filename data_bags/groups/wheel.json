@@ -1,0 +1,5 @@
+{
+	"id":"wheel",
+	"gid":31337,
+	"members":[ "admin", "user" ]
+}
